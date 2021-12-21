@@ -27,6 +27,9 @@
   color: #111;
 }
 
+.product_rating {
+  display: flex;
+}
 .product_price {
   margin-top: 5px;
 }
